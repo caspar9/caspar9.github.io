@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.sullor.com/posts/hello/</loc>
-    <lastmod>2020-03-08T00:29:05+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.sullor.com/posts/</loc>
-    <lastmod>2020-03-08T00:29:05+08:00</lastmod>
+    <lastmod>2020-03-08T02:33:05+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.sullor.com/</loc>
+    <lastmod>2020-03-08T02:33:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sullor.com/posts/test2/</loc>
+    <lastmod>2020-03-08T02:33:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sullor.com/posts/test1/</loc>
+    <lastmod>2020-03-08T02:13:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sullor.com/posts/hello/</loc>
     <lastmod>2020-03-08T00:29:05+08:00</lastmod>
   </url>
   
