@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.sullor.com/sitemap.xml
+Sitemap: http://www.sullor.com/sitemap.xml
