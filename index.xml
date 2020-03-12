@@ -12,18 +12,6 @@
     
     
     <item>
-      <title>test</title>
-      <link>http://localhost:1313/post/test/</link>
-      <pubDate>Fri, 06 Mar 2020 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/test/</guid>
-      
-        <description>&lt;p&gt;test&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
       <title>Jane 主题预览</title>
       <link>http://localhost:1313/post/jane-theme-preview.zh-cn/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
